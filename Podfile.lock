@@ -1,0 +1,17 @@
+PODS:
+  - SwiftFormat (0.28.2):
+    - SwiftFormat/Core (= 0.28.2)
+  - SwiftFormat/Core (0.28.2)
+  - SwiftLint (0.18.1)
+
+DEPENDENCIES:
+  - SwiftFormat
+  - SwiftLint
+
+SPEC CHECKSUMS:
+  SwiftFormat: f000e128c6f7b61ae0d5010b7745119734adeaa1
+  SwiftLint: b467d08f5b25dc3b3cfed243d8e1b74b91714c67
+
+PODFILE CHECKSUM: 8fa9f20fad056aa54f8e0450ad9806862a07ebe6
+
+COCOAPODS: 1.2.1
